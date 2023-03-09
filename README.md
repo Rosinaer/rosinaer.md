@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hola!👋 Soy Rosina Reñones
 
-<!--
-**Rosinaer/rosinaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy de Bahia Blanca, provincia de Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+-------------------------------------------
+## 🎓 Formación
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Desarrollo Front-end**-Instituto Ada
+* **Estudiante Técnicatura superior en desarrollo de software**-Instituto de Formación Técnica Superior
+* **bootcamp Full-Stack JavaScrip**-Undefined Academy-Guillermo Rodas  
+
+------------------------------------------
+## 🛠 Habilidades
+
+* Html
+* Css
+* JavaScript
+
+------------------------------------------------------------------------------------------------------
+
+### 💻 Comandos terminal
+
+|  **Comando**   |   **Descripción**                 |
+|--------------- | ----------------------------------|
+|    ls          | Lista los archivos y carpetas     |
+|    cd          | Nos permite cambiar de directorio |
+|    mkdir       | crear carpeta                     |
+|    rm-r        | nos permite eliminar una carpeta  |
+|    rm          |nos permite eliminar un archivo    |
+
+
+### 📌 Comandos Alias
+
+
+|   **Comando**  |        **Descripción**                          |
+|----------------|-------------------------------------------------|
+|    cl="clear"  | ayuda a mentener limpia la pantalla             |
+|   rm="trash"   | evita que se elimine un archivo permanentemente |
+
