@@ -7,7 +7,6 @@ Soy de Bahia Blanca, provincia de Buenos Aires, Argentina
 
 * **Desarrollo Front-end**-Instituto Ada
 * **Desarrollo Web inicial**-UTN-Argentina Programa
-* **bootcamp Full-Stack JavaScrip**-Undefined Academy-Guillermo Rodas  
 
 ------------------------------------------
 ## 🛠 Habilidades
